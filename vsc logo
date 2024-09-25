@@ -1,0 +1,7 @@
+.editor-group-watermark>.letterpress {
+    background-image:url("C:/Users/MyUserName/Documents/logo.png") !important;
+    opacity: 0.75;
+    overflow: visible;
+    filter: none;
+    transform: scale(1.5, 1.5);
+}
